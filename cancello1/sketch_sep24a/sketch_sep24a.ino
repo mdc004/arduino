@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 
 
-#define WIFI_SSID "FASTWEB-XE9L7H"
-#define WIFI_PASSWORD "NQSFLGG5QN"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 void setup() {
     Serial.begin(115200);
